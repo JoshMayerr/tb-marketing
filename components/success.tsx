@@ -22,7 +22,7 @@ export default function Success() {
           <CardDescription>You'll hear from us shortly.</CardDescription>
         </CardHeader>
         <CardContent>
-          <Link href="https://tolbit.com">
+          <Link href="https://tollbit.com">
             <Button>Back to home</Button>
           </Link>
         </CardContent>
