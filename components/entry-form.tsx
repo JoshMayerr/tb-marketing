@@ -56,9 +56,10 @@ export default function EntryForm() {
       ) : (
         <Card className="w-full">
           <CardHeader>
-            <CardTitle>Join Waitlist</CardTitle>
+            <CardTitle>Get Started</CardTitle>
             <CardDescription>
-              Add your email and we will reach out soon!
+              We'll get in touch shortly via email with next steps to get you
+              started.
             </CardDescription>
           </CardHeader>
 

@@ -14,7 +14,8 @@ export default async function Page() {
               alt="Tollbit Logo"
             />
             <h3 className="text-sm mt-4 pl-1">
-              Infastructure for an Internet without websites.
+              TollBit is a tool for websites of all sizes to monitor, manage,
+              and monitize AI bot traffic.
             </h3>
           </div>
         </div>
@@ -27,7 +28,8 @@ export default async function Page() {
               alt="Tollbit Logo"
             />
             <h3 className="text-sm mt-4 pl-1">
-              Infastructure for an Internet without websites.
+              TollBit is a tool for websites of all sizes to monitor, manage,
+              and monitize AI bot traffic.
             </h3>
           </div>
         </div>
